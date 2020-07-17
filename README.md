@@ -1,5 +1,3 @@
-![](img/Claire.png)
-
 ![](img/1.png)
 
 ![](img/3.png)
