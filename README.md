@@ -3,6 +3,8 @@
 
 seeking remote, full-time software engineering opportunities  
 
+predominately front-end | strongest langaugages and frameworks: HTML5, CSS3, JavaScript, & React. 
+
 currently completing the following Udemy courses:
 
 - *Modern JavaScript from the Beginning [Brad Traversy]* 
