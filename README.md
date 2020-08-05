@@ -3,7 +3,7 @@
 
 seeking remote, full-time software engineering opportunities  
 
-predominately front-end | strongest langaugages and frameworks: HTML5, CSS3, JavaScript, & React. 
+predominately front-end | strongest languages and frameworks: HTML5, CSS3, JavaScript, & React. 
 
 currently completing the following Udemy courses:
 
