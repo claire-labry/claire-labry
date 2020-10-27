@@ -8,5 +8,4 @@ predominately front-end | strongest + favorite languages and frameworks: HTML5, 
 currently completing the following Udemy courses:
 
 - *JavaScript the Advanced Concepts [Andrei Neagoie]* 
-- *Docker for the Absolute Beginner - Hands On - DevOps [Mumshad Mannambeth]* 60% complete
 - *React - The Complete Guide (incl Hooks, React Router, Redux) [Maximilian Schwarzmüller]* 5% complete
